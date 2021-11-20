@@ -1,0 +1,19 @@
+.closed-door {
+    width: 150px;
+    height: 150px;
+    background-color: rgb(128, 0, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    opacity: 90%;
+    border: whitesmoke solid 3px;
+}
+
+.door-number {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+

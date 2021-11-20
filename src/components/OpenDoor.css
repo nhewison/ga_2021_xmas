@@ -1,0 +1,8 @@
+.open-door {
+    width: 150px;
+    height: 150px;
+    background-color: blue;
+    border-radius: 20%;
+    text-align: center;
+    position: relative;
+}

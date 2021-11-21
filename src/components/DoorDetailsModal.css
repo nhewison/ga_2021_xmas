@@ -10,11 +10,17 @@
 }
 
 .door-details {
-    height: 300px;
-    width: 250px;
+    height: 450px;
+    width: 350px;
     background-color: grey;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+}
+
+.door-details img {
+    height: 250px;
+    width: 250px;
+    border: black solid 1px;
 }

@@ -11,6 +11,10 @@ body, p, div {
 body {
   background-image: url("https://s3.eu-west-1.amazonaws.com/onlinebingo/upload/GuNI1Q7/zoom-background%231.jpg?pfdrid_c=true");
   background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 /* code {

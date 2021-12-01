@@ -3,6 +3,19 @@ import { doorData } from './doorData';
 import './Calendar.css';
 
 function Calendar() {
+
+  const ga = `
+  _____          
+ / ____|   /\\    
+| |  __   /  \\   
+| | |_ | / /\\ \\  
+| |__| |/ ____ \\ 
+ \\_____/_/    \\_\\ 
+  
+ made by NH 2021.
+  `
+  console.log(ga)
+
   return (
     <>
     <div className="header"> 
@@ -10,7 +23,7 @@ function Calendar() {
       <p>UK Team Advent Calendar 2021 </p>
     </div>
     <div className="calendar">
-      {doorData.map(person => <Door data={person} />)}
+      {doorData.map((person, index) => <Door key={index} data={person} />)}
     </div>
     </>
   );

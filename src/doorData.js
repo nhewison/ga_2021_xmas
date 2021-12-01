@@ -1,5 +1,5 @@
 export const doorData = [
-    { number: '2', img: './Images/SP.png', text: '"Ahoy there everyone! A highlight for me was FL Appreciation Week and obviously being Ned for a day!"', name: '- Somerset' },
+    { number: '2', img: 'https://i.imgur.com/vWVhicm.png', text: '"Ahoy there everyone! A highlight for me was FL Appreciation Week and obviously being Ned for a day!"', name: '- Somerset' },
     { number: '5', img: './Images/JF.png', text: '“Im a survivor, Im not gonna give up, Im not gonna stop, Im gonna work harder, Im a survivor, Im gonna make it, I will survive, keep on surviving”', name: '- John'},
     { number: '1', img: './Images/MB.png', text: ' "Calm is a superpower"', name: '- Michelle' },
     { number: '7', img: './Images/EM.png', text: '"Dont forget to believe in a little magic!"', name:'- Ellen' },

@@ -24,7 +24,7 @@ export const Door = ({ data }) => {
     return (
         <>
         {!isDoorOpen && <ClosedDoor onDoorClick={onDoorClick} number={data.number} />} 
-        {isDoorOpen && <OpenDoor onDoorClick={onOpenDoorClick} image={data.img} />}
+        {isDoorOpen && <OpenDoor onDoorClick={onOpenDoorClick} image={data.img} number={data.number} />}
         {isModalOpen && <DoorDetailsModal data={data} onClick={onOpenDoorClick}/>}
         </> 
     )

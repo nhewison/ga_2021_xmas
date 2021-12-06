@@ -1,4 +1,16 @@
-# Getting Started with Create React App
+# GA UK Team Advent Calendar 2021
+
+This project was created with JS and React, and is the GA 
+UK Annual Digital 2021 team advent calendar. 
+
+Click on a door and open to find a surprise message
+from your team-mate. 
+
+Happy Holidays ! 
+
+🎅🏼 ❄️ 🎄 ☃️ 🎅🏼 ❄️ 🎄 ☃️ 🎅🏼 ❄️ 🎄 ☃️
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

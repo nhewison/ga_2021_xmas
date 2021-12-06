@@ -15,8 +15,9 @@
 
 .door-number {
   color: white;
-  font-family: Arial, Helvetica, sans-serif;
-  font-weight: bold;
+  font-family: 'Permanent Marker', cursive;
+  text-shadow: 0 0 20px rgb(92, 0, 0);
+  font-size: 30px;
 }
 
 

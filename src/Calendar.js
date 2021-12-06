@@ -24,8 +24,11 @@ function Calendar() {
     </div>
     <div className="calendar">
       {doorData.map((person, index) => <Door key={index} data={person} />)}
+    </div>
+    <div className="footer">
       <a href="https://github.com/nhewison/"> made by NH 2021. </a>
     </div>
+
     </>
   );
 }

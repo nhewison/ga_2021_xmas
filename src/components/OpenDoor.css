@@ -1,12 +1,11 @@
 .open-door {
-    width: 140px;
-    height: 140px;
+    width: 9.5vw;
+    height: 9.5vw;
     border-radius: 20px;
     border: whitesmoke solid 3px;
     text-align: center;
     margin: 0 5px;
     cursor: pointer;
-    /* position: relative; */
 }
 
 .open-door > img {

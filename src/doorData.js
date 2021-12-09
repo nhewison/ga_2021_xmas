@@ -3,7 +3,7 @@ export const doorData = [
     { number: '5', img: 'https://imgur.com/F5bEjR0.png', text: '“Merry Christmas! Woo-hoo!! Where them doughnuts?!”', name: '- Bryce'},
     { number: '1', img: 'https://i.imgur.com/sKMijDj.jpg', text: ' "We woof you a merry holidays!"', name: '- Poppy and Chip' },
     { number: '7', img: 'https://i.imgur.com/CUK7RHJ.png', text: '"Goodbyes are never easy, we said farewell to an amazing colleague and friend.', name:'- Fiona W' },
-    { number: '17', img: 'https://monkeypuzzlemuswellhill.co.uk/wp-content/uploads/2017/08/coming-soon.jpg', text: '"Check back later"', name:'- TBC' },
+    { number: '17', img: 'https://i.imgur.com/L943sWa.jpg', text: '"Happiest of Holidays to each and everyone! Thank you for all being amazoid! Bring on 2022 and more hairy top lips! Lotsa Love x"', name:'- Somersets Moustache' },
     { number: '8', img: 'https://i.imgur.com/cRu9AKN.png', text: '"Who wore it best?"', name:'- Stripe edition' },
     { number: '13', img: 'https://i.imgur.com/fuGaZZA.png', text: '"Spoooooky season, Haloween 2021 and the team brought the looks..."', name:'- GA Halloween' },
     { number: '10', img: 'https://i.imgur.com/B1dBKHF.jpg', text: '"Hug your homies in 2022"', name:'- Nat and Ellen' },
